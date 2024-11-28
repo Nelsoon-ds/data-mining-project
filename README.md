@@ -26,6 +26,8 @@ Glassdoor reviews provide valuable insights for job seekers and companies. This 
 ## Dataset
 The dataset used in this project was sourced from Kaggle and contains over 100,000 Glassdoor reviews. The data was converted to binary using One-Hot Encoding to facilitate the analysis.
 
+A link to the reviews can be found here: https://www.kaggle.com/datasets/davidgauthier/glassdoor-job-reviews
+
 ## Methodology
 
 ### Data Preprocessing
